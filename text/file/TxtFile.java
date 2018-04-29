@@ -23,6 +23,8 @@ public class TxtFile {
 		}
 		
 		System.out.println("Nuevo");
+		System.out.println("Nuevo");
+		System.out.println("Nuevo");
 
 	}
 
